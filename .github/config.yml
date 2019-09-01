@@ -1,9 +1,2070 @@
-# Configuration for request-info - https://github.com/behaviorbot/request-info
-
-# *Required* Comment to reply with
-requestInfoReplyComment: >
-  Hi there, thanks very much for taking the time to open this issue!
-  However, could you give more information about it? Please be as much as specific. Thank you!
-  [Pierre-Henry](https://github.com/ph-7) 🤖
-
-requestInfoLabelToAdd: more-info-needed
+abrowser-3.1	Origin	Ubuntu
+abrowser-3.1	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+abrowser-3.1-branding	Origin	Ubuntu
+abrowser-3.1-branding	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+abrowser-3.5	Origin	Ubuntu
+abrowser-3.5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+abrowser-3.5-branding	Origin	Ubuntu
+abrowser-3.5-branding	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+adblock-plus	Origin	Ubuntu
+adblock-plus	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+advi	Origin	Ubuntu
+advi	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+advi-examples	Origin	Ubuntu
+advi-examples	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+alarm-clock	Origin	Ubuntu
+alarm-clock	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+all-in-one-sidebar	Origin	Ubuntu
+all-in-one-sidebar	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amsn	Origin	Ubuntu
+amsn	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amsn-data	Origin	Ubuntu
+amsn-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amule	Origin	Ubuntu
+amule	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amule-common	Origin	Ubuntu
+amule-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amule-daemon	Origin	Ubuntu
+amule-daemon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amule-gnome-support	Origin	Ubuntu
+amule-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amule-utils	Origin	Ubuntu
+amule-utils	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+amule-utils-gui	Origin	Ubuntu
+amule-utils-gui	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+apache2-mpm-itk	Origin	Ubuntu
+apache2-mpm-itk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+apache2-src	Origin	Ubuntu
+apache2-src	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+apache2-suexec	Origin	Ubuntu
+apache2-suexec	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+apache2-suexec-custom	Origin	Ubuntu
+apache2-suexec-custom	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+app-install-data-commercial	Origin	Ubuntu
+app-install-data-commercial	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+asterisk	Origin	Ubuntu
+asterisk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+asterisk-config	Origin	Ubuntu
+asterisk-config	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+asterisk-dbg	Origin	Ubuntu
+asterisk-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+asterisk-dev	Origin	Ubuntu
+asterisk-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+asterisk-doc	Origin	Ubuntu
+asterisk-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+asterisk-h323	Origin	Ubuntu
+asterisk-h323	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+asterisk-sounds-main	Origin	Ubuntu
+asterisk-sounds-main	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+automysqlbackup	Origin	Ubuntu
+automysqlbackup	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+avahi-discover	Origin	Ubuntu
+avahi-discover	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+avahi-dnsconfd	Origin	Ubuntu
+avahi-dnsconfd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+avahi-ui-utils	Origin	Ubuntu
+avahi-ui-utils	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+beagle	Origin	Ubuntu
+beagle	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+beagle-backend-evolution	Origin	Ubuntu
+beagle-backend-evolution	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+beagle-dev	Origin	Ubuntu
+beagle-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+bitlbee	Origin	Ubuntu
+bitlbee	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+bitlbee-dev	Origin	Ubuntu
+bitlbee-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+blogtk	Origin	Ubuntu
+blogtk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+bluez-compat	Origin	Ubuntu
+bluez-compat	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+bluez-pcmcia-support	Origin	Ubuntu
+bluez-pcmcia-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+bogofilter-sqlite	Origin	Ubuntu
+bogofilter-sqlite	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+broffice.org	Origin	Ubuntu
+broffice.org	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cabextract	Origin	Ubuntu
+cabextract	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cacao	Origin	Ubuntu
+cacao	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cgi-mapserver	Origin	Ubuntu
+cgi-mapserver	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+changetrack	Origin	Ubuntu
+changetrack	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+chmsee	Origin	Ubuntu
+chmsee	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+chrony	Origin	Ubuntu
+chrony	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+clamav-milter	Origin	Ubuntu
+clamav-milter	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+clamav-testfiles	Origin	Ubuntu
+clamav-testfiles	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cli-uno-bridge	Origin	Ubuntu
+cli-uno-bridge	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cmake-gui	Origin	Ubuntu
+cmake-gui	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+compiz-fusion-plugins-unsupported	Origin	Ubuntu
+compiz-fusion-plugins-unsupported	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+compiz-kde	Origin	Ubuntu
+compiz-kde	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+conkeror	Origin	Ubuntu
+conkeror	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+conkeror-spawn-process-helper	Origin	Ubuntu
+conkeror-spawn-process-helper	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cscope	Origin	Ubuntu
+cscope	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cupsys	Origin	Ubuntu
+cupsys	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cupsys-bsd	Origin	Ubuntu
+cupsys-bsd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cupsys-client	Origin	Ubuntu
+cupsys-client	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cupsys-common	Origin	Ubuntu
+cupsys-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-admin-2.2	Origin	Ubuntu
+cyrus-admin-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-clients-2.2	Origin	Ubuntu
+cyrus-clients-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-common-2.2	Origin	Ubuntu
+cyrus-common-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-dev-2.2	Origin	Ubuntu
+cyrus-dev-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-doc-2.2	Origin	Ubuntu
+cyrus-doc-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-imapd-2.2	Origin	Ubuntu
+cyrus-imapd-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-murder-2.2	Origin	Ubuntu
+cyrus-murder-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-nntpd-2.2	Origin	Ubuntu
+cyrus-nntpd-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-pop3d-2.2	Origin	Ubuntu
+cyrus-pop3d-2.2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+cyrus-sasl2-heimdal-dbg	Origin	Ubuntu
+cyrus-sasl2-heimdal-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+democracyplayer	Origin	Ubuntu
+democracyplayer	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+democracyplayer-data	Origin	Ubuntu
+democracyplayer-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+dhcp-client	Origin	Ubuntu
+dhcp-client	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+dhcp3-relay	Origin	Ubuntu
+dhcp3-relay	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+dhcp3-server-ldap	Origin	Ubuntu
+dhcp3-server-ldap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+dnsmasq	Origin	Ubuntu
+dnsmasq	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+drupal5	Origin	Ubuntu
+drupal5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+drupal6	Origin	Ubuntu
+drupal6	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+dump	Origin	Ubuntu
+dump	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+edbrowse	Origin	Ubuntu
+edbrowse	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+eggdrop	Origin	Ubuntu
+eggdrop	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+eggdrop-data	Origin	Ubuntu
+eggdrop-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+emacs22-gtk	Origin	Ubuntu
+emacs22-gtk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang	Origin	Ubuntu
+erlang	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-base	Origin	Ubuntu
+erlang-base	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-base-hipe	Origin	Ubuntu
+erlang-base-hipe	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-dev	Origin	Ubuntu
+erlang-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-examples	Origin	Ubuntu
+erlang-examples	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-mode	Origin	Ubuntu
+erlang-mode	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-nox	Origin	Ubuntu
+erlang-nox	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-src	Origin	Ubuntu
+erlang-src	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+erlang-x11	Origin	Ubuntu
+erlang-x11	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+evolution-plugins-experimental	Origin	Ubuntu
+evolution-plugins-experimental	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+expat	Origin	Ubuntu
+expat	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+faumachine	Origin	Ubuntu
+faumachine	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+faumachine-data	Origin	Ubuntu
+faumachine-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+fennec	Origin	Ubuntu
+fennec	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+fetchmailconf	Origin	Ubuntu
+fetchmailconf	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firebug	Origin	Ubuntu
+firebug	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.0-dom-inspector	Origin	Ubuntu
+firefox-3.0-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.0-venkman	Origin	Ubuntu
+firefox-3.0-venkman	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.1	Origin	Ubuntu
+firefox-3.1	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.1-branding	Origin	Ubuntu
+firefox-3.1-branding	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.1-dbg	Origin	Ubuntu
+firefox-3.1-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.1-dev	Origin	Ubuntu
+firefox-3.1-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.1-gnome-support	Origin	Ubuntu
+firefox-3.1-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.5	Origin	Ubuntu
+firefox-3.5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.5-branding	Origin	Ubuntu
+firefox-3.5-branding	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.5-dbg	Origin	Ubuntu
+firefox-3.5-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.5-dev	Origin	Ubuntu
+firefox-3.5-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-3.5-gnome-support	Origin	Ubuntu
+firefox-3.5-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-dom-inspector	Origin	Ubuntu
+firefox-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-granparadiso	Origin	Ubuntu
+firefox-granparadiso	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-granparadiso-dom-inspector	Origin	Ubuntu
+firefox-granparadiso-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-granparadiso-gnome-support	Origin	Ubuntu
+firefox-granparadiso-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-greasemonkey	Origin	Ubuntu
+firefox-greasemonkey	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-libthai	Origin	Ubuntu
+firefox-libthai	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-sage	Origin	Ubuntu
+firefox-sage	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-showcase	Origin	Ubuntu
+firefox-showcase	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-trunk	Origin	Ubuntu
+firefox-trunk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-trunk-dom-inspector	Origin	Ubuntu
+firefox-trunk-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-trunk-gnome-support	Origin	Ubuntu
+firefox-trunk-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-trunk-venkman	Origin	Ubuntu
+firefox-trunk-venkman	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-ubuntu-it-menu	Origin	Ubuntu
+firefox-ubuntu-it-menu	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+firefox-webdeveloper	Origin	Ubuntu
+firefox-webdeveloper	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+flashblock	Origin	Ubuntu
+flashblock	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+foxyproxy	Origin	Ubuntu
+foxyproxy	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+freeradius-dialupadmin	Origin	Ubuntu
+freeradius-dialupadmin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+freeradius-iodbc	Origin	Ubuntu
+freeradius-iodbc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+freeradius-krb5	Origin	Ubuntu
+freeradius-krb5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+freeradius-ldap	Origin	Ubuntu
+freeradius-ldap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+freeradius-mysql	Origin	Ubuntu
+freeradius-mysql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+freeradius-postgresql	Origin	Ubuntu
+freeradius-postgresql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+freetype2-demos	Origin	Ubuntu
+freetype2-demos	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+fsniper	Origin	Ubuntu
+fsniper	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+galeon	Origin	Ubuntu
+galeon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+galeon-common	Origin	Ubuntu
+galeon-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gdesklets	Origin	Ubuntu
+gdesklets	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge	Origin	Ubuntu
+gforge	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-common	Origin	Ubuntu
+gforge-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-db-postgresql	Origin	Ubuntu
+gforge-db-postgresql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-dns-bind9	Origin	Ubuntu
+gforge-dns-bind9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-ftp-proftpd	Origin	Ubuntu
+gforge-ftp-proftpd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-lists-mailman	Origin	Ubuntu
+gforge-lists-mailman	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-mta-courier	Origin	Ubuntu
+gforge-mta-courier	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-mta-exim4	Origin	Ubuntu
+gforge-mta-exim4	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-mta-postfix	Origin	Ubuntu
+gforge-mta-postfix	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-plugin-mediawiki	Origin	Ubuntu
+gforge-plugin-mediawiki	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-plugin-scmcvs	Origin	Ubuntu
+gforge-plugin-scmcvs	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-plugin-scmsvn	Origin	Ubuntu
+gforge-plugin-scmsvn	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-shell-postgresql	Origin	Ubuntu
+gforge-shell-postgresql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-web-apache	Origin	Ubuntu
+gforge-web-apache	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gforge-web-apache2	Origin	Ubuntu
+gforge-web-apache2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gitosis	Origin	Ubuntu
+gitosis	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+glibc-source	Origin	Ubuntu
+glibc-source	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gnome-do-plugins	Origin	Ubuntu
+gnome-do-plugins	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gnome-network-admin	Origin	Ubuntu
+gnome-network-admin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gnome-web-photo	Origin	Ubuntu
+gnome-web-photo	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gnutls-bin	Origin	Ubuntu
+gnutls-bin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+google-gadgets-common	Origin	Ubuntu
+google-gadgets-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+google-gadgets-gst	Origin	Ubuntu
+google-gadgets-gst	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+google-gadgets-gtk	Origin	Ubuntu
+google-gadgets-gtk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+google-gadgets-qt	Origin	Ubuntu
+google-gadgets-qt	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+google-gadgets-xul	Origin	Ubuntu
+google-gadgets-xul	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gourmet	Origin	Ubuntu
+gourmet	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gpgsm	Origin	Ubuntu
+gpgsm	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+graphicsmagick	Origin	Ubuntu
+graphicsmagick	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+graphicsmagick-dbg	Origin	Ubuntu
+graphicsmagick-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+graphicsmagick-imagemagick-compat	Origin	Ubuntu
+graphicsmagick-imagemagick-compat	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+graphicsmagick-libmagick-dev-compat	Origin	Ubuntu
+graphicsmagick-libmagick-dev-compat	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+grub-efi	Origin	Ubuntu
+grub-efi	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+grub-ieee1275	Origin	Ubuntu
+grub-ieee1275	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+grub-linuxbios	Origin	Ubuntu
+grub-linuxbios	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+grub-of	Origin	Ubuntu
+grub-of	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+grub-rescue-pc	Origin	Ubuntu
+grub-rescue-pc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+grub2	Origin	Ubuntu
+grub2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gs-common	Origin	Ubuntu
+gs-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gs-esp	Origin	Ubuntu
+gs-esp	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gs-esp-x	Origin	Ubuntu
+gs-esp-x	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+gstreamer0.10-packagekit	Origin	Ubuntu
+gstreamer0.10-packagekit	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+guile-gnutls	Origin	Ubuntu
+guile-gnutls	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+horde3	Origin	Ubuntu
+horde3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+hwtest	Origin	Ubuntu
+hwtest	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+hwtest-cli	Origin	Ubuntu
+hwtest-cli	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+hwtest-gtk	Origin	Ubuntu
+hwtest-gtk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+hybrid-dev	Origin	Ubuntu
+hybrid-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+hybserv	Origin	Ubuntu
+hybserv	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ia32-libs	Origin	Ubuntu
+ia32-libs	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape	Origin	Ubuntu
+iceape	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-browser	Origin	Ubuntu
+iceape-browser	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-calendar	Origin	Ubuntu
+iceape-calendar	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-chatzilla	Origin	Ubuntu
+iceape-chatzilla	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-dbg	Origin	Ubuntu
+iceape-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-dev	Origin	Ubuntu
+iceape-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-dom-inspector	Origin	Ubuntu
+iceape-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-gnome-support	Origin	Ubuntu
+iceape-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceape-mailnews	Origin	Ubuntu
+iceape-mailnews	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+iceweasel-scrapbook	Origin	Ubuntu
+iceweasel-scrapbook	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+idle-python2.4	Origin	Ubuntu
+idle-python2.4	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+idle-python2.5	Origin	Ubuntu
+idle-python2.5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ikiwiki	Origin	Ubuntu
+ikiwiki	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ipplan	Origin	Ubuntu
+ipplan	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+irb1.8	Origin	Ubuntu
+irb1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+irb1.9	Origin	Ubuntu
+irb1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ircd-hybrid	Origin	Ubuntu
+ircd-hybrid	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdnactivecards	Origin	Ubuntu
+isdnactivecards	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdneurofile	Origin	Ubuntu
+isdneurofile	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdnlog	Origin	Ubuntu
+isdnlog	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdnlog-data	Origin	Ubuntu
+isdnlog-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdnutils	Origin	Ubuntu
+isdnutils	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdnvbox	Origin	Ubuntu
+isdnvbox	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdnvboxclient	Origin	Ubuntu
+isdnvboxclient	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+isdnvboxserver	Origin	Ubuntu
+isdnvboxserver	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+itsalltext	Origin	Ubuntu
+itsalltext	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kadu	Origin	Ubuntu
+kadu	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kadu-common	Origin	Ubuntu
+kadu-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kadu-external-modules	Origin	Ubuntu
+kadu-external-modules	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kadu-themes	Origin	Ubuntu
+kadu-themes	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kaffeine	Origin	Ubuntu
+kaffeine	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kaffeine-dbg	Origin	Ubuntu
+kaffeine-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kaffeine-gstreamer	Origin	Ubuntu
+kaffeine-gstreamer	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kazehakase	Origin	Ubuntu
+kazehakase	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kazehakase-gecko	Origin	Ubuntu
+kazehakase-gecko	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kazehakase-webkit	Origin	Ubuntu
+kazehakase-webkit	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+khelpcenter	Origin	Ubuntu
+khelpcenter	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kile	Origin	Ubuntu
+kile	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kile-doc	Origin	Ubuntu
+kile-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kleopatra	Origin	Ubuntu
+kleopatra	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kolourpaint	Origin	Ubuntu
+kolourpaint	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kopete-cryptography	Origin	Ubuntu
+kopete-cryptography	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kopete-plugin-otr-kde4	Origin	Ubuntu
+kopete-plugin-otr-kde4	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kpilot	Origin	Ubuntu
+kpilot	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-admin-server	Origin	Ubuntu
+krb5-admin-server	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-clients	Origin	Ubuntu
+krb5-clients	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-ftpd	Origin	Ubuntu
+krb5-ftpd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-kdc	Origin	Ubuntu
+krb5-kdc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-kdc-ldap	Origin	Ubuntu
+krb5-kdc-ldap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-pkinit	Origin	Ubuntu
+krb5-pkinit	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-rsh-server	Origin	Ubuntu
+krb5-rsh-server	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+krb5-telnetd	Origin	Ubuntu
+krb5-telnetd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kvirc	Origin	Ubuntu
+kvirc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kvirc-data	Origin	Ubuntu
+kvirc-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kvirc-dev	Origin	Ubuntu
+kvirc-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+kvm-source	Origin	Ubuntu
+kvm-source	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ldnsutils	Origin	Ubuntu
+ldnsutils	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+lemon	Origin	Ubuntu
+lemon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libapache-mod-jk-doc	Origin	Ubuntu
+libapache-mod-jk-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libapache2-mod-jk	Origin	Ubuntu
+libapache2-mod-jk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libapache2-mod-php5filter	Origin	Ubuntu
+libapache2-mod-php5filter	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libapache2-mod-shib	Origin	Ubuntu
+libapache2-mod-shib	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libapache2-svn	Origin	Ubuntu
+libapache2-svn	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libavahi-compat-howl-dev	Origin	Ubuntu
+libavahi-compat-howl-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libavahi-compat-howl0	Origin	Ubuntu
+libavahi-compat-howl0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libc6-xen	Origin	Ubuntu
+libc6-xen	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libcamlimages-ocaml	Origin	Ubuntu
+libcamlimages-ocaml	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libcamlimages-ocaml-dev	Origin	Ubuntu
+libcamlimages-ocaml-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libcamlimages-ocaml-doc	Origin	Ubuntu
+libcamlimages-ocaml-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libcgi-fast-perl	Origin	Ubuntu
+libcgi-fast-perl	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libcupsys2	Origin	Ubuntu
+libcupsys2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libcyrus-imap-perl22	Origin	Ubuntu
+libcyrus-imap-perl22	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libdbm-ruby1.8	Origin	Ubuntu
+libdbm-ruby1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libdbm-ruby1.9	Origin	Ubuntu
+libdbm-ruby1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libfarsight0.1-3	Origin	Ubuntu
+libfarsight0.1-3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libfarsight0.1-3-dbg	Origin	Ubuntu
+libfarsight0.1-3-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libfarsight0.1-dev	Origin	Ubuntu
+libfarsight0.1-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libfarsight0.1-doc	Origin	Ubuntu
+libfarsight0.1-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgd-tools	Origin	Ubuntu
+libgd-tools	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgdbm-ruby1.8	Origin	Ubuntu
+libgdbm-ruby1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgdbm-ruby1.9	Origin	Ubuntu
+libgdbm-ruby1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libggadget-1.0-0	Origin	Ubuntu
+libggadget-1.0-0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libggadget-1.0-dev	Origin	Ubuntu
+libggadget-1.0-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libggadget-gtk-1.0-0	Origin	Ubuntu
+libggadget-gtk-1.0-0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libggadget-gtk-1.0-dev	Origin	Ubuntu
+libggadget-gtk-1.0-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libggadget-qt-1.0-0	Origin	Ubuntu
+libggadget-qt-1.0-0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libggadget-qt-1.0-dev	Origin	Ubuntu
+libggadget-qt-1.0-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgio-fam	Origin	Ubuntu
+libgio-fam	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgoffice-gtk-0-6	Origin	Ubuntu
+libgoffice-gtk-0-6	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgraphics-magick-perl	Origin	Ubuntu
+libgraphics-magick-perl	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgraphicsmagick++1	Origin	Ubuntu
+libgraphicsmagick++1	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgraphicsmagick++1-dev	Origin	Ubuntu
+libgraphicsmagick++1-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgraphicsmagick1	Origin	Ubuntu
+libgraphicsmagick1	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libgraphicsmagick1-dev	Origin	Ubuntu
+libgraphicsmagick1-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libldns-dev	Origin	Ubuntu
+libldns-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libldns1	Origin	Ubuntu
+libldns1	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmapnik-dev	Origin	Ubuntu
+libmapnik-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmapnik0.5	Origin	Ubuntu
+libmapnik0.5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmapscript-ruby	Origin	Ubuntu
+libmapscript-ruby	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmapscript-ruby1.8	Origin	Ubuntu
+libmapscript-ruby1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmapscript-ruby1.9	Origin	Ubuntu
+libmapscript-ruby1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-accessibility1.0-cil	Origin	Ubuntu
+libmono-accessibility1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-bytefx0.7.6.1-cil	Origin	Ubuntu
+libmono-bytefx0.7.6.1-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-bytefx0.7.6.2-cil	Origin	Ubuntu
+libmono-bytefx0.7.6.2-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-c5-1.0-cil	Origin	Ubuntu
+libmono-c5-1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-cairo1.0-cil	Origin	Ubuntu
+libmono-cairo1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-corlib2.1-cil	Origin	Ubuntu
+libmono-corlib2.1-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-cscompmgd7.0-cil	Origin	Ubuntu
+libmono-cscompmgd7.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-cscompmgd8.0-cil	Origin	Ubuntu
+libmono-cscompmgd8.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-db2-1.0-cil	Origin	Ubuntu
+libmono-db2-1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-firebirdsql1.7-cil	Origin	Ubuntu
+libmono-firebirdsql1.7-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-ldap1.0-cil	Origin	Ubuntu
+libmono-ldap1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-ldap2.0-cil	Origin	Ubuntu
+libmono-ldap2.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-microsoft-build2.0-cil	Origin	Ubuntu
+libmono-microsoft-build2.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-microsoft7.0-cil	Origin	Ubuntu
+libmono-microsoft7.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-microsoft8.0-cil	Origin	Ubuntu
+libmono-microsoft8.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-npgsql1.0-cil	Origin	Ubuntu
+libmono-npgsql1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-npgsql2.0-cil	Origin	Ubuntu
+libmono-npgsql2.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-oracle1.0-cil	Origin	Ubuntu
+libmono-oracle1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-oracle2.0-cil	Origin	Ubuntu
+libmono-oracle2.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-sharpzip0.6-cil	Origin	Ubuntu
+libmono-sharpzip0.6-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-sharpzip2.6-cil	Origin	Ubuntu
+libmono-sharpzip2.6-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-system-ldap1.0-cil	Origin	Ubuntu
+libmono-system-ldap1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-system-ldap2.0-cil	Origin	Ubuntu
+libmono-system-ldap2.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-system-messaging1.0-cil	Origin	Ubuntu
+libmono-system-messaging1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-system-messaging2.0-cil	Origin	Ubuntu
+libmono-system-messaging2.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-system2.1-cil	Origin	Ubuntu
+libmono-system2.1-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmono-winforms1.0-cil	Origin	Ubuntu
+libmono-winforms1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmoon	Origin	Ubuntu
+libmoon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmpg123-0	Origin	Ubuntu
+libmpg123-0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmpg123-dev	Origin	Ubuntu
+libmpg123-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmysql-ocaml	Origin	Ubuntu
+libmysql-ocaml	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libmysql-ocaml-dev	Origin	Ubuntu
+libmysql-ocaml-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libnb-apisupport1-java	Origin	Ubuntu
+libnb-apisupport1-java	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libnb-ide10-java	Origin	Ubuntu
+libnb-ide10-java	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libnb-java2-java	Origin	Ubuntu
+libnb-java2-java	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libnetpbm9	Origin	Ubuntu
+libnetpbm9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libnetpbm9-dev	Origin	Ubuntu
+libnetpbm9-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libnss3-0d	Origin	Ubuntu
+libnss3-0d	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libnss3-tools	Origin	Ubuntu
+libnss3-tools	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libopenafs-dev	Origin	Ubuntu
+libopenafs-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libopensc2	Origin	Ubuntu
+libopensc2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libopensc2-dbg	Origin	Ubuntu
+libopensc2-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libopensc2-dev	Origin	Ubuntu
+libopensc2-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libopenssl-ruby1.8	Origin	Ubuntu
+libopenssl-ruby1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libopenssl-ruby1.9	Origin	Ubuntu
+libopenssl-ruby1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libosmgpsmap0	Origin	Ubuntu
+libosmgpsmap0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libosmgpsmap0-dev	Origin	Ubuntu
+libosmgpsmap0-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libpam-openafs-kaserver	Origin	Ubuntu
+libpam-openafs-kaserver	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libpng3	Origin	Ubuntu
+libpng3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libpostgresql-ocaml	Origin	Ubuntu
+libpostgresql-ocaml	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libpostgresql-ocaml-dev	Origin	Ubuntu
+libpostgresql-ocaml-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libreadline-ruby1.8	Origin	Ubuntu
+libreadline-ruby1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libreadline-ruby1.9	Origin	Ubuntu
+libreadline-ruby1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsaml-dev	Origin	Ubuntu
+libsaml-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsaml2	Origin	Ubuntu
+libsaml2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsaml2-dev	Origin	Ubuntu
+libsaml2-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsaml2-doc	Origin	Ubuntu
+libsaml2-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsaml5	Origin	Ubuntu
+libsaml5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsasl2-modules-gssapi-heimdal	Origin	Ubuntu
+libsasl2-modules-gssapi-heimdal	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsasl2-modules-gssapi-mit	Origin	Ubuntu
+libsasl2-modules-gssapi-mit	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsasl2-modules-ldap	Origin	Ubuntu
+libsasl2-modules-ldap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsasl2-modules-otp	Origin	Ubuntu
+libsasl2-modules-otp	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libshib-dev	Origin	Ubuntu
+libshib-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libshib-target5	Origin	Ubuntu
+libshib-target5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libshib6	Origin	Ubuntu
+libshib6	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsnmp-python	Origin	Ubuntu
+libsnmp-python	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsqlite3-tcl	Origin	Ubuntu
+libsqlite3-tcl	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsvn-java	Origin	Ubuntu
+libsvn-java	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsvn-ruby	Origin	Ubuntu
+libsvn-ruby	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsvn-ruby1.8	Origin	Ubuntu
+libsvn-ruby1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libtcltk-ruby1.8	Origin	Ubuntu
+libtcltk-ruby1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libtcltk-ruby1.9	Origin	Ubuntu
+libtcltk-ruby1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libtiff-opengl	Origin	Ubuntu
+libtiff-opengl	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libuno-cli-basetypes1.0-cil	Origin	Ubuntu
+libuno-cli-basetypes1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libuno-cli-cppuhelper1.0-cil	Origin	Ubuntu
+libuno-cli-cppuhelper1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libuno-cli-oootypes1.0-cil	Origin	Ubuntu
+libuno-cli-oootypes1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libuno-cli-ure1.0-cil	Origin	Ubuntu
+libuno-cli-ure1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libuno-cli-uretypes1.0-cil	Origin	Ubuntu
+libuno-cli-uretypes1.0-cil	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libwxbase2.6-0	Origin	Ubuntu
+libwxbase2.6-0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libwxbase2.6-dbg	Origin	Ubuntu
+libwxbase2.6-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libwxbase2.6-dev	Origin	Ubuntu
+libwxbase2.6-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libwxgtk2.6-0	Origin	Ubuntu
+libwxgtk2.6-0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libwxgtk2.6-dbg	Origin	Ubuntu
+libwxgtk2.6-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libwxgtk2.6-dev	Origin	Ubuntu
+libwxgtk2.6-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libxml-security-c-dev	Origin	Ubuntu
+libxml-security-c-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libxml-security-c14	Origin	Ubuntu
+libxml-security-c14	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libxmltooling-dev	Origin	Ubuntu
+libxmltooling-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libxmltooling-doc	Origin	Ubuntu
+libxmltooling-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libxmltooling1	Origin	Ubuntu
+libxmltooling1	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libzend-framework-php	Origin	Ubuntu
+libzend-framework-php	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+linux-crashdump	Origin	Ubuntu
+linux-crashdump	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+linux-patch-openswan	Origin	Ubuntu
+linux-patch-openswan	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+listen	Origin	Ubuntu
+listen	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+lsb-languages	Origin	Ubuntu
+lsb-languages	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+lsb-multimedia	Origin	Ubuntu
+lsb-multimedia	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+lsb-printing	Origin	Ubuntu
+lsb-printing	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+lsb-qt4	Origin	Ubuntu
+lsb-qt4	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+lwresd	Origin	Ubuntu
+lwresd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+lxr-cvs	Origin	Ubuntu
+lxr-cvs	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mahara	Origin	Ubuntu
+mahara	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mahara-apache2	Origin	Ubuntu
+mahara-apache2	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+maildrop	Origin	Ubuntu
+maildrop	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mandos	Origin	Ubuntu
+mandos	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mandos-client	Origin	Ubuntu
+mandos-client	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mapnik-plugins	Origin	Ubuntu
+mapnik-plugins	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mapnik-utils	Origin	Ubuntu
+mapnik-utils	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mapserver-bin	Origin	Ubuntu
+mapserver-bin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mapserver-doc	Origin	Ubuntu
+mapserver-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mediawiki	Origin	Ubuntu
+mediawiki	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mediawiki-math	Origin	Ubuntu
+mediawiki-math	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+memcached	Origin	Ubuntu
+memcached	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+miro	Origin	Ubuntu
+miro	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+miro-data	Origin	Ubuntu
+miro-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mlmmj	Origin	Ubuntu
+mlmmj	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mlmmj-php-web	Origin	Ubuntu
+mlmmj-php-web	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mlmmj-php-web-admin	Origin	Ubuntu
+mlmmj-php-web-admin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mono-1.0-runtime	Origin	Ubuntu
+mono-1.0-runtime	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mono-1.0-service	Origin	Ubuntu
+mono-1.0-service	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mono-2.0-service	Origin	Ubuntu
+mono-2.0-service	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mono-dbg	Origin	Ubuntu
+mono-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mono-mjs	Origin	Ubuntu
+mono-mjs	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mono-smcs	Origin	Ubuntu
+mono-smcs	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mono-xbuild	Origin	Ubuntu
+mono-xbuild	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+moonlight-plugin-core	Origin	Ubuntu
+moonlight-plugin-core	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+moonlight-plugin-mozilla	Origin	Ubuntu
+moonlight-plugin-mozilla	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozgest	Origin	Ubuntu
+mozgest	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla	Origin	Ubuntu
+mozilla	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-beagle	Origin	Ubuntu
+mozilla-beagle	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-browser	Origin	Ubuntu
+mozilla-browser	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-calendar	Origin	Ubuntu
+mozilla-calendar	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-chatzilla	Origin	Ubuntu
+mozilla-chatzilla	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-ctxextensions	Origin	Ubuntu
+mozilla-ctxextensions	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-dev	Origin	Ubuntu
+mozilla-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-dom-inspector	Origin	Ubuntu
+mozilla-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-firefox-adblock	Origin	Ubuntu
+mozilla-firefox-adblock	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-imagezoom	Origin	Ubuntu
+mozilla-imagezoom	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-js-debugger	Origin	Ubuntu
+mozilla-js-debugger	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-livehttpheaders	Origin	Ubuntu
+mozilla-livehttpheaders	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-mailnews	Origin	Ubuntu
+mozilla-mailnews	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-noscript	Origin	Ubuntu
+mozilla-noscript	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-nukeimage	Origin	Ubuntu
+mozilla-nukeimage	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-openoffice.org	Origin	Ubuntu
+mozilla-openoffice.org	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-opensc	Origin	Ubuntu
+mozilla-opensc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-packagekit	Origin	Ubuntu
+mozilla-packagekit	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-psm	Origin	Ubuntu
+mozilla-psm	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-stumbleupon	Origin	Ubuntu
+mozilla-stumbleupon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mozilla-venkman	Origin	Ubuntu
+mozilla-venkman	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mpg123	Origin	Ubuntu
+mpg123	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mpg123-alsa	Origin	Ubuntu
+mpg123-alsa	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mpg123-esd	Origin	Ubuntu
+mpg123-esd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mpg123-nas	Origin	Ubuntu
+mpg123-nas	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mpg123-oss-3dnow	Origin	Ubuntu
+mpg123-oss-3dnow	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+mpg123-oss-i486	Origin	Ubuntu
+mpg123-oss-i486	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+muine	Origin	Ubuntu
+muine	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+muine-plugin-inotify	Origin	Ubuntu
+muine-plugin-inotify	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+muine-plugin-serpentine	Origin	Ubuntu
+muine-plugin-serpentine	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+muine-plugin-trayicon	Origin	Ubuntu
+muine-plugin-trayicon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+netbeans	Origin	Ubuntu
+netbeans	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+netbook-launcher	Origin	Ubuntu
+netbook-launcher	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+newt-tcl	Origin	Ubuntu
+newt-tcl	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+nginx	Origin	Ubuntu
+nginx	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+normalize-audio	Origin	Ubuntu
+normalize-audio	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+nscd	Origin	Ubuntu
+nscd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+nvram-wakeup	Origin	Ubuntu
+nvram-wakeup	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-client	Origin	Ubuntu
+openafs-client	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-dbg	Origin	Ubuntu
+openafs-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-dbserver	Origin	Ubuntu
+openafs-dbserver	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-doc	Origin	Ubuntu
+openafs-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-fileserver	Origin	Ubuntu
+openafs-fileserver	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-kpasswd	Origin	Ubuntu
+openafs-kpasswd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-krb5	Origin	Ubuntu
+openafs-krb5	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-modules-dkms	Origin	Ubuntu
+openafs-modules-dkms	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openafs-modules-source	Origin	Ubuntu
+openafs-modules-source	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+opencity	Origin	Ubuntu
+opencity	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+opencity-data	Origin	Ubuntu
+opencity-data	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openexr	Origin	Ubuntu
+openexr	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openjdk-6-source-files	Origin	Ubuntu
+openjdk-6-source-files	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-dtd-officedocument1.0	Origin	Ubuntu
+openoffice.org-dtd-officedocument1.0	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-kab	Origin	Ubuntu
+openoffice.org-kab	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-pdfimport	Origin	Ubuntu
+openoffice.org-pdfimport	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-presentation-minimizer	Origin	Ubuntu
+openoffice.org-presentation-minimizer	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-presenter-console	Origin	Ubuntu
+openoffice.org-presenter-console	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-report-builder	Origin	Ubuntu
+openoffice.org-report-builder	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-sdbc-postgresql	Origin	Ubuntu
+openoffice.org-sdbc-postgresql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-style-hicontrast	Origin	Ubuntu
+openoffice.org-style-hicontrast	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openoffice.org-wiki-publisher	Origin	Ubuntu
+openoffice.org-wiki-publisher	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+opensaml-schemas	Origin	Ubuntu
+opensaml-schemas	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+opensaml2-schemas	Origin	Ubuntu
+opensaml2-schemas	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+opensaml2-tools	Origin	Ubuntu
+opensaml2-tools	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+opensc	Origin	Ubuntu
+opensc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openswan	Origin	Ubuntu
+openswan	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+openswan-modules-source	Origin	Ubuntu
+openswan-modules-source	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+packagekit-backend-smart	Origin	Ubuntu
+packagekit-backend-smart	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+packagekit-backend-yum	Origin	Ubuntu
+packagekit-backend-yum	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+packagekit-gnome	Origin	Ubuntu
+packagekit-gnome	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+pastebinit	Origin	Ubuntu
+pastebinit	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+pcscd	Origin	Ubuntu
+pcscd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+pdns-recursor	Origin	Ubuntu
+pdns-recursor	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+penguintv	Origin	Ubuntu
+penguintv	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+perl-mapscript	Origin	Ubuntu
+perl-mapscript	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+php-mail	Origin	Ubuntu
+php-mail	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+php-net-ping	Origin	Ubuntu
+php-net-ping	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+php5-imap	Origin	Ubuntu
+php5-imap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+php5-mapscript	Origin	Ubuntu
+php5-mapscript	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware	Origin	Ubuntu
+phpgroupware	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16	Origin	Ubuntu
+phpgroupware-0.9.16	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-addressbook	Origin	Ubuntu
+phpgroupware-0.9.16-addressbook	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-admin	Origin	Ubuntu
+phpgroupware-0.9.16-admin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-calendar	Origin	Ubuntu
+phpgroupware-0.9.16-calendar	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-core	Origin	Ubuntu
+phpgroupware-0.9.16-core	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-core-base	Origin	Ubuntu
+phpgroupware-0.9.16-core-base	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-doc	Origin	Ubuntu
+phpgroupware-0.9.16-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-email	Origin	Ubuntu
+phpgroupware-0.9.16-email	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-filemanager	Origin	Ubuntu
+phpgroupware-0.9.16-filemanager	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-manual	Origin	Ubuntu
+phpgroupware-0.9.16-manual	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-news-admin	Origin	Ubuntu
+phpgroupware-0.9.16-news-admin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-notes	Origin	Ubuntu
+phpgroupware-0.9.16-notes	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-phpgwapi	Origin	Ubuntu
+phpgroupware-0.9.16-phpgwapi	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-phpgwapi-doc	Origin	Ubuntu
+phpgroupware-0.9.16-phpgwapi-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-preferences	Origin	Ubuntu
+phpgroupware-0.9.16-preferences	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-setup	Origin	Ubuntu
+phpgroupware-0.9.16-setup	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpgroupware-0.9.16-todo	Origin	Ubuntu
+phpgroupware-0.9.16-todo	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpldapadmin	Origin	Ubuntu
+phpldapadmin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+phpmyadmin	Origin	Ubuntu
+phpmyadmin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+pmount	Origin	Ubuntu
+pmount	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+polipo	Origin	Ubuntu
+polipo	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+postgresql-plperl-8.3	Origin	Ubuntu
+postgresql-plperl-8.3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+postgresql-plpython-8.3	Origin	Ubuntu
+postgresql-plpython-8.3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+postgresql-pltcl-8.3	Origin	Ubuntu
+postgresql-pltcl-8.3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ppm	Origin	Ubuntu
+ppm	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism	Origin	Ubuntu
+prism	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-facebook	Origin	Ubuntu
+prism-facebook	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-google-analytics	Origin	Ubuntu
+prism-google-analytics	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-google-calendar	Origin	Ubuntu
+prism-google-calendar	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-google-docs	Origin	Ubuntu
+prism-google-docs	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-google-groups	Origin	Ubuntu
+prism-google-groups	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-google-mail	Origin	Ubuntu
+prism-google-mail	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-google-reader	Origin	Ubuntu
+prism-google-reader	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-google-talk	Origin	Ubuntu
+prism-google-talk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prism-twitter	Origin	Ubuntu
+prism-twitter	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+prj2make-sharp	Origin	Ubuntu
+prj2make-sharp	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+proftpd	Origin	Ubuntu
+proftpd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+proftpd-basic	Origin	Ubuntu
+proftpd-basic	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+proftpd-doc	Origin	Ubuntu
+proftpd-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+proftpd-mod-ldap	Origin	Ubuntu
+proftpd-mod-ldap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+proftpd-mod-mysql	Origin	Ubuntu
+proftpd-mod-mysql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+proftpd-mod-pgsql	Origin	Ubuntu
+proftpd-mod-pgsql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-avahi	Origin	Ubuntu
+python-avahi	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-cherrypy3	Origin	Ubuntu
+python-cherrypy3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-cjson	Origin	Ubuntu
+python-cjson	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-cjson-dbg	Origin	Ubuntu
+python-cjson-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-django	Origin	Ubuntu
+python-django	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-django-tagging	Origin	Ubuntu
+python-django-tagging	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-libavg	Origin	Ubuntu
+python-libavg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-mapnik	Origin	Ubuntu
+python-mapnik	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-mapscript	Origin	Ubuntu
+python-mapscript	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-osmgpsmap	Origin	Ubuntu
+python-osmgpsmap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-packagekit-gtk	Origin	Ubuntu
+python-packagekit-gtk	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-pythonmagick	Origin	Ubuntu
+python-pythonmagick	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-wxgtk2.6	Origin	Ubuntu
+python-wxgtk2.6	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-wxgtk2.6-dbg	Origin	Ubuntu
+python-wxgtk2.6-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python-xen-3.3	Origin	Ubuntu
+python-xen-3.3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+python2.5-examples	Origin	Ubuntu
+python2.5-examples	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+quassel-client	Origin	Ubuntu
+quassel-client	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+quassel-core	Origin	Ubuntu
+quassel-core	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+rdoc1.8	Origin	Ubuntu
+rdoc1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+rdoc1.9	Origin	Ubuntu
+rdoc1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ri1.8	Origin	Ubuntu
+ri1.8	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ri1.9	Origin	Ubuntu
+ri1.9	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ruby1.8-elisp	Origin	Ubuntu
+ruby1.8-elisp	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ruby1.8-examples	Origin	Ubuntu
+ruby1.8-examples	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ruby1.9-elisp	Origin	Ubuntu
+ruby1.9-elisp	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+ruby1.9-examples	Origin	Ubuntu
+ruby1.9-examples	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+rxvt-unicode	Origin	Ubuntu
+rxvt-unicode	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+rxvt-unicode-lite	Origin	Ubuntu
+rxvt-unicode-lite	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+rxvt-unicode-ml	Origin	Ubuntu
+rxvt-unicode-ml	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+samba-tools	Origin	Ubuntu
+samba-tools	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+scrapbook	Origin	Ubuntu
+scrapbook	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+screen-profiles-extras	Origin	Ubuntu
+screen-profiles-extras	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey	Origin	Ubuntu
+seamonkey	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey-browser	Origin	Ubuntu
+seamonkey-browser	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey-chatzilla	Origin	Ubuntu
+seamonkey-chatzilla	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey-dbg	Origin	Ubuntu
+seamonkey-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey-dev	Origin	Ubuntu
+seamonkey-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey-dom-inspector	Origin	Ubuntu
+seamonkey-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey-gnome-support	Origin	Ubuntu
+seamonkey-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+seamonkey-mailnews	Origin	Ubuntu
+seamonkey-mailnews	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+serpentine	Origin	Ubuntu
+serpentine	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+smartpm	Origin	Ubuntu
+smartpm	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+smartpm-core	Origin	Ubuntu
+smartpm-core	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+smbind	Origin	Ubuntu
+smbind	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+sndfile-programs	Origin	Ubuntu
+sndfile-programs	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+socat	Origin	Ubuntu
+socat	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+softflowd	Origin	Ubuntu
+softflowd	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+sork-passwd-h3	Origin	Ubuntu
+sork-passwd-h3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+spamass-milter	Origin	Ubuntu
+spamass-milter	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+speeddial	Origin	Ubuntu
+speeddial	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+squid-cgi	Origin	Ubuntu
+squid-cgi	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+squid3	Origin	Ubuntu
+squid3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+squid3-cgi	Origin	Ubuntu
+squid3-cgi	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+squid3-common	Origin	Ubuntu
+squid3-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+squidclient	Origin	Ubuntu
+squidclient	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+squidguard	Origin	Ubuntu
+squidguard	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+squirrelmail	Origin	Ubuntu
+squirrelmail	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+sudo-ldap	Origin	Ubuntu
+sudo-ldap	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+swat	Origin	Ubuntu
+swat	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tdiary	Origin	Ubuntu
+tdiary	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tdiary-contrib	Origin	Ubuntu
+tdiary-contrib	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tdiary-mode	Origin	Ubuntu
+tdiary-mode	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tdiary-plugin	Origin	Ubuntu
+tdiary-plugin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tdiary-theme	Origin	Ubuntu
+tdiary-theme	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+texlive-metapost	Origin	Ubuntu
+texlive-metapost	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+texlive-music	Origin	Ubuntu
+texlive-music	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+texlive-omega	Origin	Ubuntu
+texlive-omega	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+thunderbird-beagle	Origin	Ubuntu
+thunderbird-beagle	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tkmib	Origin	Ubuntu
+tkmib	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+torbutton-extension	Origin	Ubuntu
+torbutton-extension	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+totem-plugins-extra	Origin	Ubuntu
+totem-plugins-extra	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+totem-xine	Origin	Ubuntu
+totem-xine	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+trac	Origin	Ubuntu
+trac	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+trac-git	Origin	Ubuntu
+trac-git	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+transmission	Origin	Ubuntu
+transmission	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+transmission-cli	Origin	Ubuntu
+transmission-cli	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+transmission-daemon	Origin	Ubuntu
+transmission-daemon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tuxguitar	Origin	Ubuntu
+tuxguitar	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tuxguitar-alsa	Origin	Ubuntu
+tuxguitar-alsa	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tuxguitar-fluidsynth	Origin	Ubuntu
+tuxguitar-fluidsynth	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tuxguitar-jsa	Origin	Ubuntu
+tuxguitar-jsa	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+tuxguitar-oss	Origin	Ubuntu
+tuxguitar-oss	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+update-manager-hildon	Origin	Ubuntu
+update-manager-hildon	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+update-manager-text	Origin	Ubuntu
+update-manager-text	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+useragentswitcher	Origin	Ubuntu
+useragentswitcher	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+virtualbox-ose	Origin	Ubuntu
+virtualbox-ose	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+virtualbox-ose-dbg	Origin	Ubuntu
+virtualbox-ose-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+virtualbox-ose-guest-source	Origin	Ubuntu
+virtualbox-ose-guest-source	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+virtualbox-ose-guest-utils	Origin	Ubuntu
+virtualbox-ose-guest-utils	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+virtualbox-ose-source	Origin	Ubuntu
+virtualbox-ose-source	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+w3m-img	Origin	Ubuntu
+w3m-img	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+webfav	Origin	Ubuntu
+webfav	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+wx2.6-doc	Origin	Ubuntu
+wx2.6-doc	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+wx2.6-examples	Origin	Ubuntu
+wx2.6-examples	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+wx2.6-headers	Origin	Ubuntu
+wx2.6-headers	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+wx2.6-i18n	Origin	Ubuntu
+wx2.6-i18n	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xapian-omega	Origin	Ubuntu
+xapian-omega	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xdmx	Origin	Ubuntu
+xdmx	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xdmx-tools	Origin	Ubuntu
+xdmx-tools	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xen-docs-3.3	Origin	Ubuntu
+xen-docs-3.3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xen-hypervisor-3.3	Origin	Ubuntu
+xen-hypervisor-3.3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xen-utils-3.3	Origin	Ubuntu
+xen-utils-3.3	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xfce4-terminal	Origin	Ubuntu
+xfce4-terminal	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xfce4-weather-plugin	Origin	Ubuntu
+xfce4-weather-plugin	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xmltooling-schemas	Origin	Ubuntu
+xmltooling-schemas	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xpdf	Origin	Ubuntu
+xpdf	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xpdf-common	Origin	Ubuntu
+xpdf-common	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xpdf-reader	Origin	Ubuntu
+xpdf-reader	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xpdf-utils	Origin	Ubuntu
+xpdf-utils	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xserver-xephyr	Origin	Ubuntu
+xserver-xephyr	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xserver-xfbdev	Origin	Ubuntu
+xserver-xfbdev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xul-ext-adblock-plus	Origin	Ubuntu
+xul-ext-adblock-plus	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xul-ext-all-in-one-sidebar	Origin	Ubuntu
+xul-ext-all-in-one-sidebar	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xul-ext-firebug	Origin	Ubuntu
+xul-ext-firebug	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xul-ext-flashblock	Origin	Ubuntu
+xul-ext-flashblock	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xul-ext-mozgest	Origin	Ubuntu
+xul-ext-mozgest	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xul-ext-ubuntu-it-menu	Origin	Ubuntu
+xul-ext-ubuntu-it-menu	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xul-ext-webdeveloper	Origin	Ubuntu
+xul-ext-webdeveloper	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9-dom-inspector	Origin	Ubuntu
+xulrunner-1.9-dom-inspector	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9-venkman	Origin	Ubuntu
+xulrunner-1.9-venkman	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9.1	Origin	Ubuntu
+xulrunner-1.9.1	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9.1-dbg	Origin	Ubuntu
+xulrunner-1.9.1-dbg	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9.1-dev	Origin	Ubuntu
+xulrunner-1.9.1-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9.1-gnome-support	Origin	Ubuntu
+xulrunner-1.9.1-gnome-support	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9.1-testsuite	Origin	Ubuntu
+xulrunner-1.9.1-testsuite	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9.1-testsuite-dev	Origin	Ubuntu
+xulrunner-1.9.1-testsuite-dev	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+xulrunner-1.9.2-testsuite	Origin	Ubuntu
+xulrunner-1.9.2-testsuite	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zabbix-agent	Origin	Ubuntu
+zabbix-agent	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zabbix-frontend-php	Origin	Ubuntu
+zabbix-frontend-php	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zabbix-proxy-mysql	Origin	Ubuntu
+zabbix-proxy-mysql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zabbix-proxy-pgsql	Origin	Ubuntu
+zabbix-proxy-pgsql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zabbix-server-mysql	Origin	Ubuntu
+zabbix-server-mysql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zabbix-server-pgsql	Origin	Ubuntu
+zabbix-server-pgsql	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zend-framework	Origin	Ubuntu
+zend-framework	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zonecheck	Origin	Ubuntu
+zonecheck	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zonecheck-cgi	Origin	Ubuntu
+zonecheck-cgi	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zope-ldapuserfolder	Origin	Ubuntu
+zope-ldapuserfolder	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zope2.10	Origin	Ubuntu
+zope2.10	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zope2.10-sandbox	Origin	Ubuntu
+zope2.10-sandbox	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+zsync	Origin	Ubuntu
+zsync	Bugs	https://bugs.launchpad.net/ubuntu/+filebug
+libsepol1/lpia	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libgtkhtml-editor-common/armel	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+xfce4-fsguard-plugin/sparc	Task	xubuntu-desktop
+apt-xapian-index/ia64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libxcb-xv0/i386	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+wngerman/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libgtkspell0/armel	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+libkwineffects1/i386	Task	kubuntu-desktop, edubuntu-desktop-kde
+cron/sparc	Task	standard, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+pidgin-otr/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+libclutter-gtk-0.8-0/armel	Task	mobile-netbook-remix
+libmagickcore1/amd64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+apache2-mpm-prefork/powerpc	Task	lamp-server, edubuntu-server, edubuntu-ship-addon
+liburi-perl/sparc	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libspectre1/sparc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+language-support-translations-rw/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-dz/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+bind9-host/lpia	Task	standard, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libmailtools-perl/armel	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+myspell-et/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-ug/amd64	Task	kubuntu-dvd-live
+liblaunchpad-integration1/lpia	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+ttf-kacst/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-hyphenation-lt/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libpanel-applet2-0/powerpc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-af/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-pt-base/i386	Task	ubuntu-live, edubuntu-live, xubuntu-live, mobile-live
+language-support-as/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+php5-common/powerpc	Task	lamp-server, edubuntu-server, edubuntu-ship-addon
+libasound2/hppa	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-l10n-mr-in/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-nn-base/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+cpp-4.3/amd64	Build-Essential	yes
+cpp-4.3/amd64	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+iputils-tracepath/hppa	Task	standard, mobile-mid
+language-pack-kde-hr/i386	Task	kubuntu-dvd-live
+ttf-kacst/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-sk-base/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+step/hppa	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-pack-kde-zu/powerpc	Task	kubuntu-dvd-live
+language-pack-gd/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-sl/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libcrypt-ssleay-perl/powerpc	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-es-base/ia64	Task	kubuntu-dvd-live
+xubuntu-desktop/hppa	Task	xubuntu-desktop
+hal-cups-utils/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-netbook-remix
+pulseaudio/lpia	Task	ubuntu-desktop, kubuntu-dvd-live, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+openoffice.org-filter-binfilter/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, mobile-mid
+compiz-wrapper/ia64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, mobile-mid, mobile-netbook-remix
+tomcat6-common/powerpc	Task	tomcat-server
+wamerican/amd64	Task	ubuntu-live, kubuntu-live, edubuntu-live, mobile-live
+libecryptfs0/ia64	Task	ubuntu-live, kubuntu-live, edubuntu-live, xubuntu-live, mobile-live, mythbuntu-live
+language-pack-kde-ug-base/armel	Task	kubuntu-dvd-live
+at/powerpc	Task	standard, mobile-mid
+mousepad/hppa	Task	xubuntu-desktop, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-fonts-ur/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+hildon-control-panel/armel	Task	mobile-mid
+language-pack-kde-ne-base/hppa	Task	kubuntu-dvd-live
+hildon-desktop/ia64	Task	mobile-mid
+libossp-uuid15/powerpc	Task	postgresql-server, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-ms-base/amd64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+python-central/sparc	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+eog/hppa	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+hunspell-uz/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libgail18/amd64	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+mono-runtime/i386	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+lshw/lpia	Task	standard
+language-support-translations-xh/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-mk/armel	Task	kubuntu-dvd-live
+libvorbisfile3/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+openoffice.org-l10n-or-in/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+ttf-arphic-gbsn00lp/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+scim-m17n/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+pkg-config/ia64	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+foobillard/ia64	Task	mobile-mid
+wget/hppa	Task	standard, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libraptor1/ia64	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+tuxtype-data/lpia	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+ubuntu-desktop/hppa	Task	ubuntu-desktop, edubuntu-desktop
+language-pack-gnome-br-base/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-eu/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-de-base/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live, xubuntu-live
+inputattach/amd64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-pack-gnome-nb-base/amd64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-support-translations-ss/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-ti/sparc	Task	kubuntu-dvd-live
+liblapack3gf/sparc	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+linux-libc-dev/i386	Build-Essential	yes
+linux-libc-dev/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libstartup-notification0/hppa	Task	ubuntu-desktop, kubuntu-dvd-live, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libwpd8c2a/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid
+language-pack-gnome-tk/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-support-writing-ve/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+network-manager/hppa	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libtdb1/armel	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-pack-gnome-st-base/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-om-base/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+kvkbd/powerpc	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-pack-gnome-dz/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+thunderbird-locale-pt-br/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gucharmap/lpia	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+tomcat6-admin/amd64	Task	tomcat-server
+language-pack-gnome-sl-base/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libmpfr1ldbl/sparc	Build-Essential	yes
+libmpfr1ldbl/sparc	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-l10n-fi/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-pl-base/armel	Task	kubuntu-dvd-live
+libjasper1/amd64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+acl/hppa	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libattr1/i386	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-sl-base/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libtagc0/sparc	Task	xubuntu-desktop
+language-pack-ts-base/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libgstreamer-plugins-base0.10-0/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-sv-base/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libnet-daemon-perl/ia64	Task	lamp-server, edubuntu-server, edubuntu-ship-addon
+ttf-kannada-fonts/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, mobile-mid
+language-support-fonts-or/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-translations-es/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-th/amd64	Task	kubuntu-dvd-live
+zip/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-server, xubuntu-desktop, mobile-netbook-remix
+thunderbird-locale-es-ar/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+procmail/amd64	Task	mail-server
+python-openssl/sparc	Task	server
+language-support-ml/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-uz-base/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libotr2/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-netbook-remix
+libstdc++6/i386	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-writer2latex/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, mobile-mid
+xserver-xorg-input-mouse/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libavahi-common-data/armel	Task	ubuntu-desktop, print-server, virt-host, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+knotes/i386	Task	kubuntu-desktop, edubuntu-desktop-kde
+xserver-xorg-input-kbd/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-zu/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-input-zh/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-la/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-l10n-lv/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libxml2-utils/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix
+language-pack-kde-ka/ia64	Task	kubuntu-dvd-live
+gnome-user-guide-eu/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-selector-common/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-netbook-remix
+defoma/amd64	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, edubuntu-server, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-an-base/hppa	Task	kubuntu-dvd-live
+python2.5-minimal/armel	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-support-he/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+yelp/ia64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix
+language-pack-kde-tl-base/powerpc	Task	kubuntu-dvd-live
+language-selector-qt/lpia	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-pack-fa-base/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libdigest-hmac-perl/armel	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+python2.5-minimal/powerpc	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-pack-gnome-uz-base/powerpc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-so/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-ss/powerpc	Task	kubuntu-dvd-live
+language-pack-gl-base/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-zu/hppa	Task	kubuntu-dvd-live
+gcompris-sound-hu/hppa	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+mythtv-theme-mythbuntu/hppa	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libmng1/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+acpi-support/ia64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libfribidi0/powerpc	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libwv-1.2-3/hppa	Task	xubuntu-desktop
+libavahi-glib1/powerpc	Task	ubuntu-desktop, kubuntu-dvd-live, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libzephyr3/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+language-pack-gnome-ta/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-vi/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+thunderbird-locale-ja/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, xubuntu-live
+libgksu2-0/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+xfce4-weather-plugin/ia64	Task	xubuntu-desktop
+language-pack-de/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, xubuntu-live
+language-pack-kde-ia-base/amd64	Task	kubuntu-dvd-live
+libltdl7/i386	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+apt-xapian-index/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libffi5/hppa	Task	ubuntu-desktop, print-server, server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libedit2/hppa	Task	standard, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libopal3.6.1/ia64	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid
+mythbuntu-common/lpia	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+python-xapian/amd64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libportaudio2/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-live, mobile-mid, mobile-netbook-remix
+libgcrypt11-dev/armel	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+kdelibs5/i386	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+python-gnupginterface/armel	Task	standard, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libcanberra-gtk0/hppa	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-pack-gnome-lg/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libvolume-id1/i386	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+tasksel/i386	Task	minimal
+language-pack-kde-ti/lpia	Task	kubuntu-dvd-live
+language-pack-so/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libkholidays4/ia64	Task	kubuntu-desktop, edubuntu-desktop-kde
+abiword-help/powerpc	Task	xubuntu-desktop
+language-pack-mr/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+php5-pgsql/ia64	Task	edubuntu-server, edubuntu-ship-addon
+language-pack-kde-fr-base/lpia	Task	kubuntu-dvd-live
+xfce4-session/ia64	Task	xubuntu-desktop, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+soprano-daemon/lpia	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde, mobile-live
+language-pack-kde-ts/amd64	Task	kubuntu-dvd-live
+mlocate/powerpc	Task	standard
+system-config-printer-kde/hppa	Task	kubuntu-desktop, edubuntu-desktop-kde
+xchat-common/hppa	Task	xubuntu-desktop
+pidgin-libnotify/hppa	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+python-gnome2/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+amarok/hppa	Task	kubuntu-desktop, edubuntu-desktop-kde
+libmailtools-perl/i386	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libnm-glib0/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libegroupwise1.2-13/armel	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+language-pack-uz-base/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libhesiod0/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+update-manager/amd64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-et/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libmagickwand1/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-kk/lpia	Task	kubuntu-dvd-live
+language-pack-crh/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+computer-janitor/sparc	Task	ubuntu-desktop, edubuntu-desktop
+libhtml-parser-perl/powerpc	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+gtk2-engines-mythbuntu/lpia	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libqt4-test/powerpc	Task	kubuntu-desktop, edubuntu-desktop-kde
+ksquares/amd64	Task	edubuntu-desktop-kde
+language-pack-gnome-or/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+acl/ia64	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-java-common/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, mobile-mid
+gsfonts/i386	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-fr/lpia	Task	kubuntu-dvd-live
+language-support-kn/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libmysqlclient15off/i386	Task	lamp-server, mail-server, kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde, edubuntu-server, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-kk-base/sparc	Task	kubuntu-dvd-live
+language-support-fonts-bn/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libnet-dbus-perl/ia64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-nso/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libgpewidget1/i386	Task	mobile-mid
+language-pack-gnome-eo/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+gzip/ia64	Task	minimal
+thunar/hppa	Task	xubuntu-desktop, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libpulse-browse0/armel	Task	ubuntu-desktop, kubuntu-dvd-live, edubuntu-desktop, xubuntu-live, mobile-mid, mobile-netbook-remix
+konqueror/sparc	Task	kubuntu-desktop, edubuntu-desktop-kde
+libsoup2.4-1/powerpc	Task	ubuntu-desktop, kubuntu-dvd-live, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libclass-accessor-perl/hppa	Task	minimal
+libapparmor1/hppa	Task	standard
+language-support-writing-nb/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-rw/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libhttp-response-encoding-perl/lpia	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-af/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-translations-fi/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+bluez-gnome/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-sr/hppa	Task	kubuntu-dvd-live
+gnome-netstatus-applet/armel	Task	mobile-netbook-remix
+gimp-help-it/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libgoffice-0-6-common/armel	Task	xubuntu-desktop
+gcompris-sound-en/amd64	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-pack-gnome-or/amd64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libcrypt-ssleay-perl/ia64	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+jockey-gtk/armel	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libk3b3-extracodecs/lpia	Task	kubuntu-desktop, edubuntu-desktop-kde
+umbrello/powerpc	Task	edubuntu-desktop-kde
+language-pack-ts-base/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-help-en-gb/hppa	Task	ubuntu-live, kubuntu-live, edubuntu-live, mobile-live
+wfaroese/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-l10n-br/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-se/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libgnomeui-0/armel	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-or-base/amd64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+kdeplasma-addons/sparc	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-pack-se/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libhtml-fromtext-perl/sparc	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libpaper-utils/amd64	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+ubuntu-edu-preschool/sparc	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+libcommons-daemon-java/powerpc	Task	tomcat-server
+language-pack-st/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+kdegames-card-data/powerpc	Task	edubuntu-desktop-kde
+umbrello/amd64	Task	edubuntu-desktop-kde
+libavc1394-0/lpia	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+language-pack-kde-bn/powerpc	Task	kubuntu-dvd-live
+libdigest-sha1-perl/amd64	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+hunspell-ne/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+quassel-data/armel	Task	kubuntu-desktop, edubuntu-desktop-kde
+libhildon-1-0/hppa	Task	mobile-mid
+desktop-file-utils/amd64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libgssglue1/hppa	Task	mythbuntu-live
+pessulus/powerpc	Task	edubuntu-desktop-gnome
+console-setup/armel	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libapm1/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+esound-common/i386	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-uk-base/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-support-translations-st/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+ncurses-bin/i386	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-ca-base/hppa	Task	kubuntu-dvd-live
+mythbuntu-gdm-theme/sparc	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-mi/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libgnome-media0/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+libperl5.10/amd64	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+xfce4-systemload-plugin/amd64	Task	xubuntu-desktop
+libgc1c2/amd64	Task	standard
+language-support-writing-sw/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-ast-base/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+make/hppa	Build-Essential	yes
+make/hppa	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-pa/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-session/amd64	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+gcompris-sound-de/ia64	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+gnome-accessibility-themes/hppa	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+openoffice.org-base-core/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, mobile-mid
+guile-1.8-libs/lpia	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+libxfce4util4/hppa	Task	xubuntu-desktop, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libxft2/sparc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+ubuntu-sounds/powerpc	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-support-translations-ja/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-ko/armel	Task	kubuntu-dvd-live
+openoffice.org-hyphenation-pl/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+ksysguardd/sparc	Task	kubuntu-desktop, edubuntu-desktop-kde
+libcdparanoia0/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+tomcat6/powerpc	Task	tomcat-server
+libnet-dbus-perl/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+ntpdate/armel	Task	minimal
+logrotate/i386	Task	standard, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+hplip-data/armel	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-pack-hy/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+xfonts-wqy/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-am-base/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+systemsettings/powerpc	Task	kubuntu-desktop, edubuntu-desktop-kde
+wukrainian/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libc6-i686/i386	Task	minimal
+ttf-dustin/hppa	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+xserver-xorg-video-intel/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libxcb-xv0/ia64	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+gnome-pilot-conduits/i386	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+thunderbird-locale-en-gb/armel	Task	ubuntu-live, kubuntu-live, edubuntu-live, mobile-live
+language-support-translations-bg/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-vi-base/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+mktemp/lpia	Task	minimal
+language-pack-pl/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-cy-base/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+whois/sparc	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+desktop-switcher/i386	Task	mobile-netbook-remix
+openoffice.org-l10n-da/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libpulse0/ia64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+thunderbird-locale-eu/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+xserver-xorg-input-mouse/sparc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+netcat-traditional/lpia	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-oc-base/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-input-th/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-mk-base/sparc	Task	kubuntu-dvd-live
+libsilc-1.1-2/lpia	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+thunderbird-locale-cs/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libavahi-common-data/lpia	Task	ubuntu-desktop, print-server, virt-host, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+python-dev/powerpc	Task	kubuntu-desktop, edubuntu-desktop-kde
+libgtkhtml2-0/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+stardict-plugin-festival/lpia	Task	mobile-mid
+language-pack-cs-base/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+pciutils/i386	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+python-virtkey/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+openoffice.org-l10n-ar/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+mythbuntu-live-autostart/ia64	Task	mythbuntu-live
+ubiquity-casper/sparc	Task	ubuntu-live, kubuntu-live, edubuntu-live, xubuntu-live, mobile-live, mythbuntu-live
+e2fslibs/hppa	Task	minimal, mythbuntu-live
+myspell-sk/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-de/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live, xubuntu-live
+language-pack-gnome-hu/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+krfb/ia64	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-pack-id/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-gu-base/armel	Task	kubuntu-dvd-live
+language-support-ca/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+ttf-arphic-bsmi00lp/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-si-base/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-support-ss/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-power-manager/armel	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+hpijs-ppds/sparc	Task	kubuntu-desktop, edubuntu-desktop-kde
+kfourinline/powerpc	Task	edubuntu-desktop-kde
+language-support-dz/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-ta/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnash/sparc	Task	mobile-mid
+libglib2.0-cil/lpia	Task	mobile-netbook-remix
+openoffice.org-math/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, mobile-mid
+language-pack-kde-ss/armel	Task	kubuntu-dvd-live
+pnm2ppa/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-pack-kde-de/ia64	Task	kubuntu-dvd-live
+openoffice.org-help-br/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libedit2/armel	Task	standard, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-fy/amd64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libtext-wrapi18n-perl/hppa	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+kdelibs-bin/lpia	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde, mobile-live
+language-pack-kde-lv-base/i386	Task	kubuntu-dvd-live
+gvfs/sparc	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+bsdmainutils/lpia	Task	standard, mobile-live, mobile-mid
+language-pack-gnome-st/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+myspell-zu/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libwbclient0/ia64	Task	ubuntu-desktop, print-server, samba-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+foo2zjs/hppa	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-support-writing-id/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libcommons-collections-java/ia64	Task	tomcat-server
+pidgin-otr/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-support-cy/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+e2fsprogs/ia64	Task	minimal, mythbuntu-live
+language-pack-kde-az-base/amd64	Task	kubuntu-dvd-live
+language-pack-kn-base/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+vim-common/sparc	Task	minimal
+openoffice.org-thesaurus-ne/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gcompris-sound-en/armel	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+pidgin-data/powerpc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+openoffice.org-style-human/amd64	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, mobile-mid, mobile-netbook-remix
+openoffice.org-l10n-common/lpia	Task	ubuntu-live, kubuntu-live, edubuntu-live, mobile-live
+libexporter-lite-perl/powerpc	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libexiv2-5/armel	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+myspell-et/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+dmidecode/i386	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+info/powerpc	Task	standard
+mythbuntu-common/powerpc	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+gnome-about/i386	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+ttf-dejavu-extra/hppa	Task	print-server, kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde, edubuntu-server, mobile-live, mobile-mid
+openoffice.org-help-hu/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-bg/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+xserver-xorg/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libcanberra0/amd64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-pack-kde-uk-base/hppa	Task	kubuntu-dvd-live
+gimp-help-no/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libcommons-pool-java/i386	Task	tomcat-server
+gnome-user-guide-zh/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libgnome2-0/armel	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libncurses5/sparc	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+ufw/sparc	Task	standard
+libnspr4-0d/hppa	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+gnash/armel	Task	mobile-mid
+libkonq5/powerpc	Task	kubuntu-desktop, edubuntu-desktop-kde
+nano/amd64	Task	standard
+language-pack-pa/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-se-base/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+kubuntu-docs/hppa	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-pack-kde-dz/lpia	Task	kubuntu-dvd-live
+language-pack-kde-si/hppa	Task	kubuntu-dvd-live
+ltrace/armel	Task	standard
+libltdl7/armel	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libggzmod4/armel	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+openoffice.org-help-cs/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libmng1/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-hyphenation-it/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libdebian-installer4/sparc	Task	ubuntu-live, kubuntu-live, edubuntu-live, xubuntu-live, mobile-live, mythbuntu-live
+libcairo2/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+go-home-applet/sparc	Task	mobile-netbook-remix
+libqt4-opengl/amd64	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+libpolkit-gnome0/amd64	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-ro/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-fy-base/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+xchat-common/armel	Task	xubuntu-desktop
+libgdata-google1.2-1/sparc	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+gtk2-engines-sapwood/armel	Task	mobile-mid
+xserver-xorg-video-cirrus/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-de-base/powerpc	Task	kubuntu-dvd-live
+module-init-tools/powerpc	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-draw/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, mobile-mid
+kmahjongg/i386	Task	edubuntu-desktop-kde
+openoffice.org-hyphenation-hu/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-ca-base/powerpc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-fi-base/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+jockey-kde/lpia	Task	kubuntu-desktop, edubuntu-desktop-kde
+libhttp-server-simple-perl/sparc	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openssl/i386	Build-Essential	yes
+openssl/i386	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-l10n-ur-in/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-keyring/amd64	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-as-base/i386	Task	kubuntu-dvd-live
+gcompris-sound-pt/armel	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+python-reportlab-accel/ia64	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+gettext-base/i386	Task	standard
+language-pack-kde-ga/i386	Task	kubuntu-dvd-live
+language-support-fonts-ii/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-l10n-eu/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-gtk/amd64	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-support-input-zh/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+cellwriter/sparc	Task	mobile-netbook-remix
+libfftw3-3/sparc	Task	kubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop
+myspell-eo/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gcalctool/ia64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+libqalculate4/armel	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-pack-csb/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-fi/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+xscreensaver-data/ia64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+software-properties-gtk/armel	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+winbind/armel	Task	samba-server
+language-pack-gnome-sd-base/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-oc-base/lpia	Task	kubuntu-dvd-live
+linux-headers-generic/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-translations-mr/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+ttf-wqy-zenhei/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, mobile-mid
+python-reportlab-accel/powerpc	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+openoffice.org-hyphenation-en-us/hppa	Task	ubuntu-live, kubuntu-live, edubuntu-live, mobile-live
+language-pack-fil/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+xserver-xorg-video-tdfx/hppa	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libdbus-glib-1-2/armel	Task	ubuntu-desktop, print-server, server, virt-host, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-shs-base/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-dz/i386	Task	kubuntu-dvd-live
+libgnome-keyring1.0-cil/powerpc	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+libpulse0/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+gvfs-bin/amd64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+language-pack-om-base/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-hr/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+myspell-nl/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-crh/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-sq/amd64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+edubuntu-artwork/i386	Task	edubuntu-desktop-gnome
+perl-base/armel	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-ia/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live
+scim-tables-additional/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-fonts-mn/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-translations-ga/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-cs-base/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+kpackagekit/armel	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-support-input-gu/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libxdmcp6/powerpc	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+w3m/lpia	Task	standard
+libkdeedu4/i386	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-support-eo/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-l10n-as-in/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+kaddressbook/hppa	Task	kubuntu-desktop, edubuntu-desktop-kde
+kdelibs-bin/amd64	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-pack-ar/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, xubuntu-live
+libpopt0/sparc	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+gnome-games-data/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+libgda3-3/ia64	Task	xubuntu-desktop
+libgraphviz4/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-az/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-sc/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libtrackerclient0/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+ubuntu-docs/ia64	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-pack-kde-tr/sparc	Task	kubuntu-dvd-live
+wfaroese/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+compizconfig-backend-gconf/i386	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+launchpad-integration/sparc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libfs6/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libvte-common/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libstreamanalyzer0/amd64	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+libconvert-binhex-perl/armel	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+nautilus-sendto/armel	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-pack-mi/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-help-ja/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gtk2-engines-sapwood/hppa	Task	mobile-mid
+myspell-ku/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-fr/armel	Task	kubuntu-dvd-live
+language-support-translations-ga/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libkpathsea4/amd64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+apturl/i386	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+ubuntu-docs/sparc	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-pack-gnome-mk-base/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+x-ttcidfont-conf/amd64	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libhsqldb-java/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, mobile-mid
+libgdiplus/sparc	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-pack-gnome-ts/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+apache2.2-common/lpia	Task	lamp-server, edubuntu-server, edubuntu-ship-addon
+libsexy2/amd64	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-nb-base/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+totem-common/ia64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+language-support-translations-be/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+myspell-gv/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-de/lpia	Task	ubuntu-dvd-live, edubuntu-dvd-live, xubuntu-live
+fast-user-switch-applet/ia64	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-support-translations-za/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+kjumpingcube/armel	Task	edubuntu-desktop-kde
+libslp1/lpia	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+openoffice.org-draw/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, mobile-mid, mobile-netbook-remix
+libhtml-format-perl/i386	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libept0/lpia	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libgweather1/lpia	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-translations-tn/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+xserver-xorg-video-mga/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+vim-tiny/amd64	Task	minimal
+libwvstreams4.4-base/amd64	Task	mobile-mid
+tomcat6-docs/ia64	Task	tomcat-server
+nautilus/armel	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+libgail-common/powerpc	Task	ubuntu-desktop, kubuntu-dvd-live, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+lib64gcc1/sparc	Build-Essential	yes
+lib64gcc1/sparc	Task	minimal
+quassel/hppa	Task	kubuntu-desktop, edubuntu-desktop-kde
+procps/armel	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+brltty-x11/lpia	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+wdiff/hppa	Task	xubuntu-desktop
+language-support-writing-da/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-eo/ia64	Task	kubuntu-dvd-live
+fb-music-high/sparc	Task	mobile-mid
+libegroupwise1.2-13/sparc	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+laptop-detect/ia64	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+exo-utils/amd64	Task	xubuntu-desktop, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+akregator/ia64	Task	kubuntu-desktop, edubuntu-desktop-kde
+libreadline5/lpia	Build-Essential	yes
+libreadline5/lpia	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+pinentry-gtk2/powerpc	Task	edubuntu-desktop-kde
+language-support-translations-rw/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-gl/powerpc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+mesa-utils/lpia	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, mobile-live, mobile-mid, mobile-netbook-remix
+libcanberra0/hppa	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+apparmor-utils/hppa	Task	standard
+language-pack-ky-base/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-ta/amd64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+openprinting-ppds-extra/i386	Task	print-server
+language-support-te/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-en/sparc	Task	ubuntu-live, edubuntu-live, xubuntu-live, mobile-live
+libxfconf-0-2/amd64	Task	xubuntu-desktop, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-en/sparc	Task	ubuntu-live, kubuntu-live, edubuntu-live, xubuntu-live, mobile-live, mobile-mid
+scim-tables-additional/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-fo-base/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-ca/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+xserver-xorg-input-evdev/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+smarty/powerpc	Task	edubuntu-server, edubuntu-ship-addon
+libpam-smbpass/powerpc	Task	samba-server
+libglade2-0/amd64	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libhtml-tree-perl/powerpc	Task	standard, mobile-live, mobile-mid, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+phonon-backend-xine/ia64	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-pack-kde-hy-base/i386	Task	kubuntu-dvd-live
+mount/powerpc	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-vi-base/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+evolution-documentation-oc/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+nautilus/amd64	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+openoffice.org-l10n-el/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libndesk-dbus1.0-cil/i386	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-pack-gnome-el/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-so-base/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-gl/ia64	Task	kubuntu-dvd-live
+libqt4-network/hppa	Task	kubuntu-desktop, edubuntu-desktop-gnome, edubuntu-desktop-kde
+dhcp3-common/amd64	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-ug/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libpam-runtime/i386	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-gnome-mt/sparc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+perlmagick/amd64	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+language-pack-kde-ti/powerpc	Task	kubuntu-dvd-live
+language-pack-zu-base/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libcdio-paranoia0/sparc	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libgnomeui-0/i386	Task	ubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+human-theme/ia64	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+language-pack-kde-eo-base/sparc	Task	kubuntu-dvd-live
+hplip/armel	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+libruby1.8/amd64	Task	edubuntu-ship-addon
+language-support-uz/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libprotobuf3/i386	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+jfsutils/armel	Task	ubuntu-live, kubuntu-live, edubuntu-live, xubuntu-live, mobile-live, mythbuntu-live
+language-pack-gnome-ta/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+kanagram/amd64	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+ttf-dustin/sparc	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+myspell-gv/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-bo-base/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-netstatus-applet/powerpc	Task	mobile-netbook-remix
+libmad0/sparc	Task	kubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-ss/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+abiword-common/armel	Task	xubuntu-desktop
+language-support-translations-uz/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+wamerican/hppa	Task	ubuntu-live, kubuntu-live, edubuntu-live, mobile-live
+language-pack-gnome-mr-base/hppa	Task	ubuntu-dvd-live, edubuntu-dvd-live
+xserver-xorg-video-s3virge/sparc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-uk-base/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-ts-base/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-th-base/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libgdome2-0/amd64	Task	xubuntu-desktop
+language-pack-gnome-th/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+libxcomposite1/sparc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+xfonts-75dpi/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-translations-ss/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+ktouch/powerpc	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+openoffice.org-help-en-us/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+ttf-lao/powerpc	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+libconvert-binhex-perl/amd64	Task	mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-dz/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-writing-fr/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-kde-gu/hppa	Task	kubuntu-dvd-live
+language-support-writing-hu/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+pulseaudio-module-x11/hppa	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+gnome-user-guide-sv/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-support-sl/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+wfrench/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-af/powerpc	Task	ubuntu-dvd-live, edubuntu-dvd-live
+apt-utils/amd64	Task	minimal, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+mscompress/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+language-pack-kde-az/i386	Task	kubuntu-dvd-live
+language-pack-lo-base/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+python-gconf/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libcairo-perl/sparc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+libkipi6/hppa	Task	kubuntu-desktop, edubuntu-desktop-kde
+rarian-compat/lpia	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid
+libgphoto2-port0/armel	Task	ubuntu-desktop, print-server, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-bs/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-pack-sr-base/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+mesa-utils/i386	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, mobile-mid, mobile-netbook-remix
+language-pack-ro-base/armel	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libsearchclient0/i386	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-pack-gnome-gu/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+finger/sparc	Task	ubuntu-desktop, edubuntu-desktop, mobile-mid, mobile-netbook-remix
+ubuntu-sounds/hppa	Task	ubuntu-desktop, edubuntu-desktop, mobile-netbook-remix
+dontzap/ia64	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-pack-gnome-wo/ia64	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-pack-gnome-yi-base/armel	Task	ubuntu-dvd-live, edubuntu-dvd-live
+ksquares/i386	Task	edubuntu-desktop-kde
+gnome-desktop-data/powerpc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+openoffice.org-thesaurus-de-ch/ia64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openssh-server/hppa	Task	openssh-server, virt-host, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-kde-ne/lpia	Task	kubuntu-dvd-live
+language-pack-ja/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live, xubuntu-live
+libavahi-common3/amd64	Task	ubuntu-desktop, print-server, virt-host, kubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-pack-ku-base/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gnome-user-guide-nb/i386	Task	ubuntu-dvd-live, edubuntu-dvd-live
+language-support-translations-lv/sparc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libdbi-perl/ia64	Task	lamp-server, edubuntu-server, edubuntu-ship-addon
+language-pack-kde-eu-base/sparc	Task	kubuntu-dvd-live
+gnome-system-tools/ia64	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-live, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+vim-runtime/amd64	Task	server, edubuntu-ship-addon, xubuntu-desktop
+vim-runtime/powerpc	Task	server, edubuntu-ship-addon, xubuntu-desktop
+dmz-cursor-theme/hppa	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-netbook-remix
+cdrdao/amd64	Task	kubuntu-desktop, edubuntu-desktop-kde
+language-support-bo/amd64	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openoffice.org-l10n-tn/lpia	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+openprinting-ppds-extra/armel	Task	print-server
+xfce4-notes-plugin/hppa	Task	xubuntu-desktop
+libcups2-dev/hppa	Task	edubuntu-desktop-gnome, edubuntu-desktop-kde
+gpicview/ia64	Task	xubuntu-desktop
+evince/powerpc	Task	ubuntu-desktop, edubuntu-desktop, xubuntu-desktop, mobile-mid, mobile-netbook-remix
+openoffice.org-hyphenation-sl/hppa	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+gpe-icons/lpia	Task	mobile-mid
+language-pack-mk-base/powerpc	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+language-support-translations-ti/i386	Task	ubuntu-dvd-live, kubuntu-dvd-live, edubuntu-dvd-live
+libvisual-0.4-0/armel	Task	ubuntu-desktop, kubuntu-desktop, edubuntu-desktop, edubuntu-desktop-kde, xubuntu-desktop, mobile-mid, mobile-netbook-remix, mythbuntu-backend-master, mythbuntu-backend-slave, mythbuntu-desktop, mythbuntu-frontend
+language-support-translations-he/armel
